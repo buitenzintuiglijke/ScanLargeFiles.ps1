@@ -1,2 +1,2 @@
 # ScanLargeFiles.ps1
-It's a Powershell script for Scan Large Files
+Counts and displays the number of files greater than or equal to the MinimumSize parameter, recursively counted from the specified location in -Path.
